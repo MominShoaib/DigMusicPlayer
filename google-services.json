@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498822945369",
+    "firebase_url": "https://pythondb-3add8.firebaseio.com",
+    "project_id": "pythondb-3add8",
+    "storage_bucket": "pythondb-3add8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498822945369:android:075b11e03f8d813c402f48",
+        "android_client_info": {
+          "package_name": "com.example.digmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498822945369-0ehldv8jfi494232gbtuaqpe9ihebpcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNayjPZ14X90r9I9U32TNqSrgJ7Lw5Fz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498822945369-0ehldv8jfi494232gbtuaqpe9ihebpcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
